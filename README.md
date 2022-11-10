@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @CS-Goku
-- 👀 我有兴趣...
-- 🌱 我现在正在学习...
-- 💞️ I’m looking to collaborate on ...
-- 📫 如何联系我...
+- 👀 我有兴趣...study 
+- 🌱 我现在正在学习...SSM
+- 💞️ I’m looking to collaborate on ...study with me
+- 📫 联系我——wechat：Mzezmz Email：79002348@qq.com
+-        
 
 <!---
 CS-Goku/CS-Goku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
