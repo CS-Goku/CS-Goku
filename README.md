@@ -2,7 +2,7 @@
 - 👀 我有兴趣...study 
 - 🌱 我现在正在学习...java
 - 💞️ I’m looking to collaborate on ...study with me
-- 📫 联系我——wechat：Mzezmz Email：79002348@qq.com
+- 📫 联系我——wechat：Mzezmz Email：ismaozheng@gmail.com
 -        
 
 <!---
